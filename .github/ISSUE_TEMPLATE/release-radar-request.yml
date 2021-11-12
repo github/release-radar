@@ -17,7 +17,7 @@ body:
     placeholder: ex. The GitHub CLI is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code.
   validations:
     required: true
-- type: Version Number
+- type: dropdown
   attributes:
     label: Version
     description: The Release Radar covers major version releases. What release is your project shipping?
