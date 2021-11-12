@@ -38,7 +38,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: version-higher
+    label: Higher version
     description: Have you shipped a version higher than 10.0? Please write the version number below.
     placeholder: ex. 27.0
   validations:
@@ -69,6 +69,13 @@ body:
     label: Link to changelog
     description: Please post a link to your release notes, blog post, or similar.
     placeholder: ex. https://github.com/cli/cli/releases/tag/v2.2.0
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Social media
+    description: Did you post about your release on social media? Paste a link here.
+    placeholder: ex. https://twitter.com/github/status/1430204045801758725
   validations:
     required: true
 - type: textarea
