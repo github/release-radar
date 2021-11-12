@@ -21,3 +21,7 @@ Projects are chosen my the GitHub Staff each month. By filling out the [issue](h
 ## Can I submit multiple times?
 
 Yes you can submit your project multiple times for consideration. Please only submit for each major version release. We like to share the :heart: around, so please don't get annoyed if we don't feature _every_ release you ship.
+
+## Can I send media?
+
+If you'd like to send us images, gifs, or videos for your project, please fill out the form and submit your form. Once submitted, you form will convert into an issue. Drop your media into the issue as a comment. Hint: it helps to add assets to your submission request!
