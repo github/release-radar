@@ -45,8 +45,23 @@ body:
     required: false
 - type: textarea
   attributes:
-    label: Business Value
-    description: How will this drive business goals?
+    label: Description of changes
+    description: 2-3 sentences on the major changes you have shipped with your latest update. If you have only shipped version 1.0, feel free to write nil.
+    placeholder: ex. The latest changes includes support for Codespaces, and the ability to delete repos. There are also more extensions available.
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Website
+    description: Please post a link to your website.
+    placeholder: ex. https://cli.github.com/
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Link to changelog
+    description: Please post a link to your release notes, blog post, or similar.
+    placeholder: ex. https://github.com/cli/cli/releases/tag/v2.2.0
   validations:
     required: true
 - type: textarea
