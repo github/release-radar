@@ -38,7 +38,7 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Version
+    label: Version-higher
     description: Have you shipped a version higher than 10.0? Please write the version number below.
   validations:
     required: false
