@@ -36,10 +36,11 @@ body:
       - Other (please fill out below)
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
-    label: Version-higher
+    label: version-higher
     description: Have you shipped a version higher than 10.0? Please write the version number below.
+    placeholder: ex. 27.0
   validations:
     required: false
 - type: textarea
