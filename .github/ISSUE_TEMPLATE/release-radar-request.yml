@@ -43,6 +43,13 @@ body:
     placeholder: ex. 27.0
   validations:
     required: false
+- type: input
+  attributes:
+    label: Date
+    description: What date did you ship this release?
+    placeholder: ex. August 25, 2021
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Description of changes
