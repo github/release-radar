@@ -1,6 +1,7 @@
 name: Release Radar Request
 description: Form to request your project be included in the GitHub Release Radar
 title: "[Release Radar Request] <title>"
+assignees: MishManners
 body:
 - type: input
   attributes:
