@@ -1,7 +1,7 @@
 name: Release Radar Request
 description: Form to request your project be included in the GitHub Release Radar
-title: "[Request For Short Form Video] <title>"
-labels: [Short Form Video]
+title: "[Release Radar Request] <title>"
+labels: 
 body:
 - type: input
   attributes:
