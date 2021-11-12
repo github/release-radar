@@ -1,1 +1,52 @@
-TBC
+name: Short Form Video Request
+description: Request a short form video about a feature
+title: "[Request For Short Form Video] <title>"
+labels: [Short Form Video]
+body:
+- type: input
+  attributes:
+    label: Feature Name
+    description: Which feature is this video for?
+    placeholder: ex. Codespaces
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Content or Product Stakeholder(s)
+    description: Who can we follow up with for a review?
+    placeholder: ex. @handle
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Platform
+    description: Where should this video be posted? (You can choose multiple platforms, if needed)
+    multiple: true
+    options:
+      - Youtube
+      - Linkedin
+      - Twitter
+      - TikTok
+      - Other
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Audience
+    description: Who is the intended audience?
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Business Value
+    description: How will this drive business goals?
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: More Information
+    description: If you would like to add any more information, please add it below
+    placeholder: You rock!
+  validations:
+    required: false
+
