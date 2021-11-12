@@ -1,5 +1,5 @@
-name: Short Form Video Request
-description: Request a short form video about a feature
+name: Release Radar Request
+description: Form to request your project be included in the GitHub Release Radar
 title: "[Request For Short Form Video] <title>"
 labels: [Short Form Video]
 body:
