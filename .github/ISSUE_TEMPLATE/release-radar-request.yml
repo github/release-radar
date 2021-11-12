@@ -80,8 +80,8 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: More Information
-    description: If you would like to add any more information, please add it below
+    label: Anything else to add?
+    description: If you would like to add any more information, please add it below. If you have images, gifs, or videos to send us, please drop them in the issue once you have finished filling out this form.
     placeholder: You rock!
   validations:
     required: false
