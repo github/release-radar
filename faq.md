@@ -12,6 +12,8 @@ If you're a maintainer, or a contributor on an open source project, and you have
 
 Fill out this [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) to be considered.
 
+If you need help or want to check out an issue that's been submitted, you can view [this issue](https://github.com/mishmanners/github-release-radar/issues/1) as a guide.
+
 ## How are projects chosen?
 
 Projects are chosen my the GitHub Staff each month. By filling out the [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) we can take a look at your project and consider it for the Release Radar.
