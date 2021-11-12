@@ -12,9 +12,9 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Content or Product Stakeholder(s)
-    description: Who can we follow up with for a review?
-    placeholder: ex. @handle
+    label: What is your project?
+    description: 1-2 sentences about what your open source project is/does.
+    placeholder: ex. The GitHub CLI is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code.
   validations:
     required: true
 - type: dropdown
