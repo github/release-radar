@@ -24,18 +24,24 @@ body:
     multiple: true
     options:
       - 1.0
-      - Linkedin
-      - Twitter
-      - TikTok
-      - Other
+      - 2.0 
+      - 3.0
+      - 4.0
+      - 5.0
+      - 6.0
+      - 7.0
+      - 8.0
+      - 9.0
+      - 10.0
+      - Other (please fill out below)
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Audience
-    description: Who is the intended audience?
+    label: Version
+    description: Have you shipped a version higher than 10.0? Please write the version number below.
   validations:
-    required: true
+    required: false
 - type: textarea
   attributes:
     label: Business Value
