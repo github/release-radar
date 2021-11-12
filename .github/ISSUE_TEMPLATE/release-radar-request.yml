@@ -5,9 +5,9 @@ assignees: MishManners
 body:
 - type: input
   attributes:
-    label: Feature Name
-    description: Which feature is this video for?
-    placeholder: ex. Codespaces
+    label: Open Source Project name
+    description: What is the name of your open source project?
+    placeholder: ex. GitHub CLI
   validations:
     required: true
 - type: textarea
