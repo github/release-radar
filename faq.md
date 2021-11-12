@@ -10,11 +10,11 @@ The Release Radar is a post written on the GitHub blog each month to showcase co
 
 If you're a maintainer, or a contributor on an open source project, and you have a major version release that shipped, we'd love to hear from you.
 
-Fill out this [issue]() to be considered.
+Fill out this [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) to be considered.
 
 ## How are projects chosen?
 
-Projects are chosen my the GitHub Staff each month. By filling out the [issue]() we can take a look at your project and consider it for the Release Radar.
+Projects are chosen my the GitHub Staff each month. By filling out the [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) we can take a look at your project and consider it for the Release Radar.
 
 ## Can I submit multiple times?
 
