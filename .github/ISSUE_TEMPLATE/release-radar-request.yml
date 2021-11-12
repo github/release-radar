@@ -52,6 +52,13 @@ body:
     required: true
 - type: input
   attributes:
+    label: GitHub Repo
+    description: Please post a link to your GitHub repository.
+    placeholder: ex. https://github.com/cli/cli/
+  validations:
+    required: true
+- type: input
+  attributes:
     label: Website
     description: Please post a link to your website.
     placeholder: ex. https://cli.github.com/
