@@ -8,6 +8,8 @@ The GitHub Release Radar is a post written on the GitHub blog each month to show
 
 If you're a maintainer, or a contributor on an open source project, and you have a major version release that shipped, we'd love to hear from you.
 
+We can't promise we can feature all projects, but we would love to consider your project.
+
 Fill out this [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) to be considered.
 
 If you have questions, check out the [FAQs](https://github.com/mishmanners/github-release-radar/blob/main/faq.md), or get in touch.
