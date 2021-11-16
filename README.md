@@ -1,10 +1,10 @@
 # GitHub Release Radar
 
-Using this repo to collect projects to consider for the [GitHub Release Radar](https://github.blog/?s=release+radar).
+This repo is designed to collect projects to consider for the [GitHub Release Radar](https://github.blog/?s=release+radar).
 
 The GitHub Release Radar is a post written on the GitHub blog each month to showcase community projects that have shipped major version releases. A post is shipped at the start of the month showcasing community projects from the previous month.
 
-If you're a maintainer, or a contributor on an open source project, and you have a major version release that shipped, we'd love to hear from you.
+If you're a maintainer, or a contributor of an open source project, and you have a major version release that shipped, we'd love to hear from you.
 
 We can't promise we can feature all projects, but we would love to consider your project.
 
