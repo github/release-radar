@@ -25,3 +25,7 @@ Yes you can submit your project multiple times for consideration. Please only su
 ## Can I send media?
 
 If you'd like to send us images, gifs, or videos for your project, please add these when filling out the form. Issue forms support media uploads for images, gifs, and videos. If you need to add images/gifs/video after you submit, drop your media into the issue as a comment. Hint: it helps to add assets to your submission request!
+
+## What if I forget to add something to the form?
+
+If you submit the form and you want to add additional information, please add this to your issue as a comment instead of completing a new form. Alternatively you can edit the issue.
