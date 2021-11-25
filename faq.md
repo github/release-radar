@@ -4,7 +4,7 @@ Please read the questions below before getting in touch.
 
 ## What is the Release Radar?
 
-The Release Radar is a post written on the GitHub blog each month to showcase community projects that have shipped major version releases. A post is shipped at the start of the month showcasing community projects from the previous month.
+The Release Radar is a post [written on the GitHub blog each month](https://github.blog/?s=release+radar) to showcase community projects that have shipped major version releases. A post is shipped at the start of the month showcasing community projects from the previous month.
 
 ## How do I submit my project for consideration?
 
