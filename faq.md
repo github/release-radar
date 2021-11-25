@@ -18,6 +18,10 @@ If you need help or want to check out an issue that's been submitted, you can vi
 
 Major version releases are usually x.0, ie. 1.0, 2.0 etc. Due to the number of submissions we receive, we usually prioritise x.0 releases. However, if you have a x.x release with major (or big) changes we will also consider it.
 
+## If I submit an x.x release, what's considered a 'big' change?
+
+This is your project and your release, whether you are a maintainer or contributor. If you think it's a big change to your project, please feel free to submit your release for consideration. We will still however prioritise x.0 releases due to the number of requests we receive each month.
+
 ## How are projects chosen?
 
 Projects are chosen my the GitHub Staff each month. By filling out the [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) we can take a look at your project and consider it for the Release Radar.
