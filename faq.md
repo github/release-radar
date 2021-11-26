@@ -12,7 +12,7 @@ If you're a maintainer, or a contributor on an open source project, and you have
 
 Fill out this [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) to be considered.
 
-If you need help, or want to see an issue that's been submitted, you can view [this issue](https://github.com/mishmanners/github-release-radar/issues/1) as a guide.
+If you need help, or want to see an example of a completed form, you can view [this issue](https://github.com/mishmanners/github-release-radar/issues/1) as a guide.
 
 ## What is a major version release?
 
