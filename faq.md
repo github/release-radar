@@ -16,7 +16,7 @@ If you need help, or want to see an example of a completed form, you can view [t
 
 ## What is a major version release?
 
-Major version releases are usually x.0, ie. 1.0, 2.0 etc. Due to the number of submissions we receive, we usually prioritise x.0 releases. However, if you have a x.x release with major (or big) changes we will also consider it.
+Major version releases are usually x.0, ie. 1.0, 2.0 etc. Due to the number of submissions we receive, we usually prioritise x.0 releases. However, if you have a x.x release with major (or big) changes we will also consider it. Many projects don't follow this version release numbering convention. So if you have a major version that isn't x.0, submit it!
 
 ## If I submit an x.x release, what's considered a 'big' change?
 
