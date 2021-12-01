@@ -26,6 +26,10 @@ This is your project and your release, whether you are a maintainer or contribut
 
 Projects are chosen my the GitHub Staff each month. By filling out the [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) we can take a look at your project and consider it for the Release Radar.
 
+## What types of open source projects are considered?
+
+We look at everything from the top open source projects, right through to weekend hobbies. If you've created something cool that could benefit others, submit it. It doesn't have to be a huge project with hundred of contributors.
+
 ## Can I submit multiple times?
 
 Yes you can submit your project multiple times for consideration. Please only submit for each major version release. We like to share the :heart: around, so please don't get annoyed if we don't feature _every_ release you ship.
