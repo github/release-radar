@@ -34,6 +34,10 @@ We look at everything from the top open source projects, right through to weeken
 
 Yes you can submit your project multiple times for consideration. Please only submit for each major version release. We like to share the :heart: around, so please don't get annoyed if we don't feature _every_ release you ship.
 
+## What if I've already been featured? Can I submit again?
+
+Yep you sure can! We love to talk about how projects are being updated. Similar to above though, we do like to share the :heart: around, so please don't get annoyed if we don't feature _every_ release you ship. 
+
 ## Can I send media?
 
 If you'd like to send us images, gifs, or videos for your project, please add these when filling out the form. Issue forms support media uploads for images, gifs, and videos. If you need to add images/gifs/video after you submit, drop your media into the issue as a comment. Hint: it helps to add assets to your submission request!
