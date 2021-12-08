@@ -22,6 +22,10 @@ Major version releases are usually x.0, ie. 1.0, 2.0 etc. Due to the number of s
 
 This is your project and your release, whether you are a maintainer or contributor. If you think it's a big change to your project, please feel free to submit your release for consideration. We will still however prioritise x.0 releases due to the number of requests we receive each month.
 
+## What are the dates?
+
+Release Radars are posted each month for the previous month's releses. Ie. the February Release Radar will feature projects shipped in February and will be published the first week of March.
+
 ## How are projects chosen?
 
 Projects are chosen my the GitHub Staff each month. By filling out the [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) we can take a look at your project and consider it for the Release Radar.
