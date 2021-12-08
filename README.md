@@ -10,7 +10,7 @@ The GitHub Release Radar is a post written on the GitHub blog each month to show
 
 If you're a maintainer, or a contributor of an open source project, and you have a major version release (especially v1.0 releases!) that shipped, we'd love to hear from you.
 
-We can't promise we can feature all projects, but we would love to consider your project.
+We can't promise we can feature all projects, but we would love to consider your project. Check out the [FAQs](https://github.com/mishmanners/github-release-radar/blob/main/faq.md) for more information on when to submit your project.
 
 Fill out this [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) to be considered. Make sure we haven't already shipped the blog post for that month. Ie. the November Release Radar will feature projects shipped in November and will be published the first week of December.
 
