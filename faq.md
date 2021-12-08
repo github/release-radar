@@ -24,7 +24,7 @@ This is your project and your release, whether you are a maintainer or contribut
 
 ## What are the dates?
 
-Release Radars are posted each month for the previous month's releses. Ie. the February Release Radar will feature projects shipped in February and will be published the first week of March. Make sure we haven't already posted the [Release Radar](https://github.blog/?s=release+radar) for the monthof your release.
+Release Radars are posted each month for the previous month's releses. Ie. the February Release Radar will feature projects shipped in February and will be published the first week of March. Make sure we haven't already posted the [Release Radar](https://github.blog/?s=release+radar) for the monthof your release. For example, if your project shipped on November 29 and you submit on the December 7, chances are the November Release Radar has already been published.
 
 ## How are projects chosen?
 
