@@ -8,7 +8,7 @@ This repo is designed to collect projects to consider for the [GitHub Release Ra
 
 The GitHub Release Radar is a post written on the GitHub blog each month to showcase community projects that have shipped major version releases. A post is shipped at the start of the month showcasing community projects from the previous month. We feature everything from the biggest open source projects to quirky weekend hobbies.
 
-We also select a few projects from the blog post to featured in a Release Radar video. You can [watch the video series on YouTube](https://www.youtube.com/watch?v=7d50L0kJncw&ab_channel=GitHub).
+We also select a few projects from the blog post to featured in a Release Radar video. You can [watch the video series on YouTube](https://www.youtube.com/watch?v=7d50L0kJncw&ab_channel=GitHub). Keep and eye on the [GitHub Twitter page]() to see if you've been featured.
 
 If you're a maintainer, or a contributor of an open source project, and you have a major version release (especially v1.0 releases!) that shipped, we'd love to hear from you.
 
