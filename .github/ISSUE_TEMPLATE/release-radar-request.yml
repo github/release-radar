@@ -20,7 +20,7 @@ body:
 - type: input
   attributes:
     label: Version
-    description: The Release Radar covers major version releases. What version number is your project shipping? Note, if you use a different release convention other than semantic (x.0), please note that below. 
+    description: The Release Radar covers major version releases. What version number is your project shipping? Note, if you use a different release convention other than version by number (x.0), please note that below. 
     placeholder: ex. 2.0
   validations:
     required: true
@@ -69,7 +69,7 @@ body:
 - type: textarea
   attributes:
     label: Anything else to add?
-    description: If you would like to add any more information, please add it below. If your software versioning uses a different system other than semantic (ie. 1.0, 2.0 etc.), please let us know here. 
+    description: If you would like to add any more information, please add it below. If your software uses a different versioning system other than version by number (ie. 1.0, 2.0 etc.), please let us know here (ie. version by name, version by date). 
     placeholder: You rock!
   validations:
     required: false
