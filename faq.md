@@ -18,10 +18,6 @@ If you need help, or want to see an example of a completed form, you can view [t
 
 Major version releases are usually x.0, ie. 1.0, 2.0 etc. Due to the nature of the Release Radar, and the number of submissions we receive, we only feature [major version releases](https://dev.to/mishmanners/shipping-a-new-open-source-project-have-you-thought-about-release-naming-150n). A major version is a ship with major changes and new things we can feature as part of the Release Radar. Whilst most projects use semantic versioning by number (ie. 1.0, 2.0, 3.0), we know not all software projects use this [version naming system](https://dev.to/mishmanners/shipping-a-new-open-source-project-have-you-thought-about-release-naming-150n). If you use a different version naming system (such as [version by date, or version by name](https://dev.to/mishmanners/shipping-a-new-open-source-project-have-you-thought-about-release-naming-150n)), please note that in your submission.
 
-## If I submit an x.x release, what's considered a 'big' change?
-
-This is your project and your release, whether you are a maintainer or contributor. If you think it's a big change to your project, please feel free to submit your release for consideration. We will still however prioritise x.0 releases due to the number of requests we receive each month.
-
 ## What are the dates?
 
 Release Radars are posted each month for the previous month's releses. Ie. the February Release Radar will feature projects shipped in February and will be published the first week of March. Make sure we haven't already posted the [Release Radar](https://github.blog/?s=release+radar) for the monthof your release. For example, if your project shipped on November 29 and you submit on the December 7, chances are the November Release Radar has already been published. Make sure you check this before submitting your project to avoid disappointment.
