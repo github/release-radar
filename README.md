@@ -12,7 +12,7 @@ We also select a few projects from the blog post to featured in a Release Radar 
 
 If you're a maintainer, or a contributor of an open source project, and you have a major version release (especially v1.0 releases!) that shipped, we'd love to hear from you. You could be featured in the blog, video, and on social media posts.
 
-We can't promise we can feature all projects, but we would love to consider your project. Check out the [FAQs](https://github.com/mishmanners/github-release-radar/blob/main/faq.md) for more information on when to submit your project.
+We can't promise we can feature all projects, but we would love to consider your project. Check out the [FAQs](https://github.com/mishmanners/github-release-radar/blob/main/faq.md) for more information on when to submit your project. Due to the nature of the Release Radar, and the number of requests, we only consider [major version releases](https://dev.to/mishmanners/shipping-a-new-open-source-project-have-you-thought-about-release-naming-150n).
 
 Fill out this [issue](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E) to be considered. Make sure we haven't already shipped the blog post for that month. Ie. the November Release Radar will feature projects shipped in November and will be published the first week of December.
 
