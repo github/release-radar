@@ -28,7 +28,7 @@ Projects are chosen by the GitHub Staff each month. By filling out the [issue](h
 
 ## What types of open source projects are considered?
 
-We look at everything from the top open source projects, right through to weekend hobbies. If you've created something cool that could benefit others, submit it. It doesn't have to be a huge project with hundred of contributors.
+We look at everything, from the top open source projects, right through to weekend hobbies. If you've created something cool that could benefit others, submit it. It doesn't have to be a huge project with hundred of contributors.
 
 ## Can I submit multiple times?
 
