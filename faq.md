@@ -40,7 +40,7 @@ Yep you sure can! We love to talk about how projects are being updated. Similar 
 
 ## Can I send media?
 
-If you'd like to send us images, gifs, or videos for your project, please add these when filling out the form. Issue forms support media uploads for images, gifs, and videos. If you need to add images/gifs/video after you submit, drop your media into the issue as a comment. Hint: it helps to add assets to your submission request!
+If you'd like to send us images, gifs, or videos for your project, please add these when filling out the form. Issue forms support media uploads for images, gifs, and videos. If you need to add images/gifs/video after you submit, drop your media into the issue as a comment. Hint: it helps to add assets to your submission request! The more assets you include, the more likely you are to be featured in our promo video!
 
 ## What if I forget to add something to the form?
 
