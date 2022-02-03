@@ -33,7 +33,7 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Description of changes
+    label: Description of breaking changes
     description: 2-3 sentences on the major changes you have shipped with your latest update. If you have only shipped version 1.0, feel free to write nil.
     placeholder: ex. The latest changes includes support for Codespaces, and the ability to delete repos. There are also more extensions available.
   validations:
