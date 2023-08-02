@@ -2,7 +2,7 @@
 
 [<kbd>Submit your release for consideration</kbd>](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E)
 
-This repo is designed to collect projects to consider for the [GitHub Release Radar](https://github.blog/?s=release+radar).
+This repo is for you to submit your project to be considered for the [GitHub Release Radar](https://github.blog/?s=release+radar).
 
 <img width="700" src="https://user-images.githubusercontent.com/36594527/141879290-ffbc7a47-6843-4122-990b-684c4b885dbf.png"></a>
 
