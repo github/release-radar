@@ -20,7 +20,7 @@ body:
 - type: input
   attributes:
     label: Version
-    description: The Release Radar covers major version releases. What version number is your project shipping? Note, if you use a different release convention other than version by number (x.0), please note that below. 
+    description: The Release Radar covers major version releases. What version number is your project shipping? Note, if you use a different release convention other than semantic version by number (x.0), please note that below so we can still consider you for the Release Radar. 
     placeholder: ex. 2.0
   validations:
     required: true
