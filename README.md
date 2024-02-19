@@ -2,13 +2,13 @@
 
 [<kbd>Submit your release for consideration</kbd>](https://github.com/mishmanners/github-release-radar/issues/new?assignees=MishManners&labels=&template=release-radar-request.yml&title=%5BRelease+Radar+Request%5D+%3Ctitle%3E)
 
-This repo is for you to submit your project to be considered for the [GitHub Release Radar](https://github.blog/?s=release+radar).
+This repo is for you to submit your project to be considered for the GitHub Release Radar. This showcase was [published on the GitHub blog until January 2024](https://github.blog/?s=release+radar). From February 2024, the Release Radars are [published on DEV](https://dev.to/mishmanners/series/17046).
 
 <img width="700" src="https://user-images.githubusercontent.com/36594527/141879290-ffbc7a47-6843-4122-990b-684c4b885dbf.png"></a>
 
-The GitHub Release Radar is a post written on the GitHub blog each month to showcase community projects that have shipped major version releases. A post is usually shipped at the start of the month showcasing community projects from the previous month; sometimes we do special features. We feature everything from the biggest open source projects to quirky weekend hobbies.
+The GitHub Release Radar is a post written each month to showcase community projects that have shipped major version releases. A post is usually shipped on the first Friday of the month, showcasing community projects from the previous month. We feature everything from the biggest open source projects to quirky weekend hobbies.
 
-We sometimes select a few projects from the blog post to featured in a Release Radar video. You can [watch the video series on YouTube](https://www.youtube.com/watch?v=7d50L0kJncw&ab_channel=GitHub). Keep and eye on the [GitHub Twitter page](https://twitter.com/github) to see if you've been featured.
+We sometimes select a few projects from the blog post to featured in a Release Radar video. You can [watch the video series on YouTube](https://www.youtube.com/watch?v=7d50L0kJncw&ab_channel=GitHub).
 
 If you're a maintainer or a contributor of an open source project, and you have a major version release (especially v1.0 releases!) that shipped, we'd love to hear from you. You could be featured in the blog, video, and on social media posts.
 
